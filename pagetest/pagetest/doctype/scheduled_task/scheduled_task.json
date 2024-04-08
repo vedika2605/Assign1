@@ -1,25 +1,25 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2024-04-02 12:29:02.197477",
+ "creation": "2024-04-07 13:02:42.787359",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "name1"
+  "scheduled_module"
  ],
  "fields": [
   {
-   "fieldname": "name1",
+   "fieldname": "scheduled_module",
    "fieldtype": "Data",
-   "label": "name "
+   "label": "scheduled module"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-02 12:29:14.780220",
+ "modified": "2024-04-07 13:02:57.844906",
  "modified_by": "Administrator",
  "module": "Pagetest",
- "name": "drtfyguhi",
+ "name": "scheduled task",
  "owner": "Administrator",
  "permissions": [
   {

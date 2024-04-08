@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class Testdrtfyguhi(FrappeTestCase):
+class Testscheduledtask(FrappeTestCase):
 	pass

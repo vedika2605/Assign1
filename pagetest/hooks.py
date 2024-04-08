@@ -150,9 +150,19 @@ app_license = "mit"
 # 		"pagetest.tasks.monthly"
 # 	],
 # }
+scheduler_events = {
+    "cron": {
+        "* * * * *": [
+            "pagetest.task.cron"
+        ]
+    }
+}
 
 # Testing
 # -------
+
+# hooks.py
+
 
 # before_tests = "pagetest.install.before_tests"
 

@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class drtfyguhi(Document):
+class Candidate(Document):
 	pass
